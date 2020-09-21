@@ -1,0 +1,104 @@
+{
+    "themeOnePromoSection": {
+        "promoData": [
+            {
+              "id": 1,
+              "title": "trend design",
+              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+              "text_2": "ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+              "text_span": "Aspernatur provident unde"
+            },
+            {
+              "id": 2,
+              "title": "Keyword ranking",
+              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima,",
+              "text_2": "molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+              "text_span": "dignissimos ducimus autem"
+            },
+            {
+              "id": 3,
+              "title": "Social media",
+              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates",
+              "text_2": "illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+              "text_span": "dolorum impedit eveniet dolorem temporibus"
+            }
+        ],
+        "promoData_1": [
+            {
+              "id": 1,
+              "title": "Zero to Hero",
+              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+              "text_2": "ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+              "text_span": "Aspernatur provident unde"
+            },
+            {
+              "id": 2,
+              "title": "Dedicated Support",
+              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima,",
+              "text_2": "molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+              "text_span": "dignissimos ducimus autem"
+            },
+            {
+              "id": 3,
+              "title": "100% Up-time",
+              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates",
+              "text_2": "illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
+              "text_span": "dolorum impedit eveniet dolorem temporibus"
+            }
+        ]
+    },
+    "themeOneContentSection": {
+        "heading": "We help to grow your business.",
+        "heading_1": "Work smarter,",
+        "heading_1_span": "not harder.",
+        "headingText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "contentThumb": "/img/content_thumb.png",
+        "profileIcon_1": "/img/profile_icon_1.svg",
+        "profileIcon_2": "/img/profile_icon_2.svg",
+        "profileIcon_3": "/img/profile_icon_3.svg",
+        "profileIcon_4": "/img/profile_icon_4.svg",
+        "folderImg": "/img/folders.png",
+        "btnText": "Learn More",
+        "contentData": [
+            {
+              "id": 1,
+              "iconClass": "fas fa-angle-double-right",
+              "title": "Online Presence",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+            },
+            {
+              "id": 2,
+              "iconClass": "fas fa-angle-double-right",
+              "title": "Marketing Stretagy",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+            },
+            {
+              "id": 3,
+              "iconClass": "fas fa-angle-double-right",
+              "title": "Promote Local Sales",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+            }
+        ],
+        "contentData_1": [
+            {
+              "id": 1,
+              "iconClass": "fas fa-angle-double-right",
+              "title": "Digital Agency & Marketing",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+            },
+            {
+              "id": 2,
+              "iconClass": "fas fa-angle-double-right",
+              "title": "Planning To Startup",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+            },
+            {
+              "id": 3,
+              "iconClass": "fas fa-angle-double-right",
+              "title": "Content Management",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+            }
+        ]
+    }
+}
